@@ -6,8 +6,8 @@ This is where I host the code I use for my android builds.
 
 The devices that has sources here are:
  - Samsung Galaxy A51 (SM-A515F)
-  - LineageOS 22 (A15 ap2a)
-  - LineageOS 22.1 (A51 ap4a) (WIP)
+   - LineageOS 22 (A15 ap2a)
+   - LineageOS 22.1 (A51 ap3a) (WIP)
  - Raspberry Pi 5 (future)
 
 ## Contact
